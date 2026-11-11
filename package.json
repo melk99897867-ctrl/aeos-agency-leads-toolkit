@@ -1,0 +1,19 @@
+{
+  "name": "aeos-agency-leads-toolkit",
+  "version": "1.0.0",
+  "description": "Ultra-lightweight B2B lead normalization, RFC 5322 email syntax verification and deduplication engine for modern growth agencies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node example.js"
+  },
+  "keywords": [
+    "b2b-leads",
+    "lead-qualification",
+    "email-verifier",
+    "agency-automation",
+    "data-cleansing",
+    "growth-hacking"
+  ],
+  "author": "AEOS Sovereign Technology",
+  "license": "MIT"
+}
